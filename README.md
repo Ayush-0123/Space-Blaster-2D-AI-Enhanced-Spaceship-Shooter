@@ -1,4 +1,5 @@
-# SpaceFighters_game
+#  Space Blaster – 2D AI-Enhanced Spaceship Shooter
+
 This project is a simple 2D space battle game created using Pygame. Two players control their respective spaceships and try to deplete each other's health by shooting bullets. The game ends when one of the players' health reaches zero.
 
 Features
